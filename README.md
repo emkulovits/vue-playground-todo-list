@@ -1,4 +1,4 @@
-# vue-playground-1
+# vue-playground-todo-list
 
 ## Project setup
 ```
